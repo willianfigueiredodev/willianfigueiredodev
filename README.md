@@ -1,16 +1,11 @@
 <br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6200&center=true&vCenter=true&random=false&width=1000&lines=Olá!+👋;Me+chamo+Willian!)](https://git.io/typing-svg)
 
 <br>
-<br>
-<br>
 
 <h1>🌎 Hello world!</h1>
-<img align="right" width="500"  href="https://willradoux.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willradoux&theme=slateorange&show_icons=true&hide_border=false&layout=compact" alt="My Github Stats">
 
-<br>
 <br>
 
 --> Willian Figueiredo <--
@@ -19,14 +14,8 @@
 <br>
 `📚` Software Engeneering
 
+<br>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
- 
 
   <h2>🙋‍♂ Sobre mim!</h2>
 
@@ -93,6 +82,7 @@
 <img align="left" height="40" width="40" src="https://github.com/user-attachments/assets/68723b98-ca09-4659-94c8-a964991d6c3e">
 
 </div>
+
 
 <br>
 <br>
