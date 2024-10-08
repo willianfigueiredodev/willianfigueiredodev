@@ -3,8 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6200&center=true&vCenter=true&random=false&width=1000&lines=Olá!+👋;Me+chamo+Willian!)](https://git.io/typing-svg)
 
+<br>
+<br>
+<br>
 
 <h1>🌎 Hello world!</h1>
+<img align="right" width="500"  href="https://willradoux.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willradoux&theme=slateorange&show_icons=true&hide_border=false&layout=compact" alt="My Github Stats">
+
+<br>
+<br>
 
 --> Willian Figueiredo <--
 <br>
@@ -12,7 +19,16 @@
 <br>
 `📚` Software Engeneering
 
-<h2>🙋‍♂ Sobre mim!</h2>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
+
+  <h2>🙋‍♂ Sobre mim!</h2>
 
 > Graduando em Engenharia de Software na Universidade Salvador – UNIFACS e atualmente estou me especializando em desenvolvimento mobile. 
 
@@ -20,6 +36,9 @@
 
 >Acredito que boas engenharia e design combinadas são a chave para o aplicativo de sucesso. Estou sempre à procura de desafios e oportunidades para aplicar meu conhecimento em projetos mais práticos.
 
+
+<br>
+<br>
 <br>
 <br>
 
