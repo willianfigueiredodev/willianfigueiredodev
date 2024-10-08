@@ -33,14 +33,13 @@
 <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/a7c3d718-b1b7-45e0-ac39-979d705f5e25" vspace="30" hspace="30">
 </a>
 
-
-<a href="mailto:willianfigueiredodev@gmail.com">
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/24f26df6-ca2e-4c48-b9de-acac0cf3c043" vspace="30" hspace="30">
+<a href="mailto:willianfigueiredodev@gmail.com" target="_blank">
+  <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/24f26df6-ca2e-4c48-b9de-acac0cf3c043" vspace="30" hspace="30">
 </a>
 
 
-<a  href="https://www.linkedin.com/in/willradoux/" target=_blank>
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/f9142a70-3b7d-417a-8201-737c24421824" vspace="30" hspace="30">
+<a href="mailto:seuemail@gmail.com" target="_blank">
+  <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/f9142a70-3b7d-417a-8201-737c24421824" vspace="30" hspace="30">
 </a>
 
 </div>
