@@ -34,7 +34,7 @@
 </a>
 
 
-<a href="mailto:cmp.1a.willianfigueiredodev@gmail.com">
+<a href="mailto:willianfigueiredodev@gmail.com">
 <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/24f26df6-ca2e-4c48-b9de-acac0cf3c043" vspace="30" hspace="30">
 </a>
 
