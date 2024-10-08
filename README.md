@@ -84,3 +84,6 @@
 <h2 align="left"> 
    ## - Obrigado visita! 😃
 </h2>
+ 
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwillradoux&s=60&c=ff6200&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
+<br>
