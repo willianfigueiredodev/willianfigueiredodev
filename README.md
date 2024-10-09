@@ -61,6 +61,8 @@
 <h2 align="left"> 
    👀 - Obrigado visita! 😃
 </h2>
+
+<br>
  
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=willradoux&s=60&c=36bcf7&bg=00000000&no=2&ff=electrolize&tb=VISITS%3A+&ta=" alt="visits"></p> 
 <br>
