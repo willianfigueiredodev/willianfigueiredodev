@@ -1,23 +1,10 @@
 <br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&center=true&vCenter=trueduration=3000&pause=1000&width=450&height=75&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%98%8E;Me+chamo+Willian!)](https://git.io/typing-svg)
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6200&center=true&vCenter=true&random=false&width=1000&lines=Olá!+👋;Me+chamo+Willian!)](https://git.io/typing-svg)
-
-<br>
-
-<h1>🌎 Hello world!</h1>
-
-<br>
-
---> Willian Figueiredo <--
-<br>
-`📍` Salvador, Brasil!
-<br>
-`📚` Software Engeneering
-
-<br>
-
-
-  <h2>🙋‍♂ Sobre mim!</h2>
+  <h1>🌎 -  Hello world!</h1>
 
 > Graduando em Engenharia de Software na Universidade Salvador – UNIFACS e atualmente estou me especializando em desenvolvimento mobile. 
 
@@ -28,35 +15,9 @@
 
 <br>
 <br>
-<br>
-<br>
-
-<div align="center"
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willradoux&bg_color=151b23&color=ff6200&line=ffa770&point=ffe3d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-<a href="https://www.instagram.com/willradoux/" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/a7c3d718-b1b7-45e0-ac39-979d705f5e25" vspace="30" hspace="30">
-</a>
-
-<a href="mailto:willianfigueiredodev@gmail.com" target="_blank">
-  <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/24f26df6-ca2e-4c48-b9de-acac0cf3c043" vspace="30" hspace="30">
-</a>
-
-
-<a href="mailto:seuemail@gmail.com" target="_blank">
-  <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/f9142a70-3b7d-417a-8201-737c24421824" vspace="30" hspace="30">
-</a>
-
-</div>
-
-<br>
-<br>
 
 <h2 align="left"> 
-  ## - 🧠 Technologies and knowledge
+  🧠 - Technologies and knowledge
 </h2>
 
 <div align="left"> 
@@ -89,9 +50,17 @@
 <br>
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willradoux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=willradoux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willradoux&radius=16&theme=github-dark&area=true&order=5&bg_color=fff&hide_border=false&hide_title=false" height="310" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h2 align="left"> 
-   ## - Obrigado visita! 😃
+   👀 - Obrigado visita! 😃
 </h2>
  
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwillradoux&s=60&c=ff6200&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=willradoux&s=60&c=36bcf7&bg=00000000&no=2&ff=electrolize&tb=VISITS%3A+&ta=" alt="visits"></p> 
 <br>
