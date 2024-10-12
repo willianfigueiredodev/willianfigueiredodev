@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&center=true&vCenter=trueduration=3000&pause=1000&width=450&height=75&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%98%8E;Me+chamo+Willian!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&center=true&vCenter=trueduration=2500&pause=700&width=450&height=75&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%98%8E;Me+chamo+Willian!)](https://git.io/typing-svg)
 </div>
 
   <h1>🌎 -  Hello world!</h1>
