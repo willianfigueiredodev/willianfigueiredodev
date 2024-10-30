@@ -55,13 +55,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=willradoux&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-<br>
-
-<h2 align="left"> 
-   👀 - Obrigado visita! 😃
-</h2>
-
-<br>
- 
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=willradoux&s=60&c=36bcf7&bg=00000000&no=2&ff=electrolize&tb=VISITS%3A+&ta=" alt="visits"></p> 
-<br>
