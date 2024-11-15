@@ -46,6 +46,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willradoux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" width="60%" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willradoux&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
