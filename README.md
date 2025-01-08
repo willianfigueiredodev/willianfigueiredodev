@@ -1,11 +1,10 @@
 <h1>🌎 -  Hello world!</h1>
 
-> Graduando em Engenharia de Software na Universidade Salvador – UNIFACS e atualmente estou me especializando em desenvolvimento mobile. 
+>Graduando em Engenharia de Software na Universidade Salvador – UNIFACS, estou desenvolvendo minhas habilidades em análise de dados e design de soluções digitais. Atualmente, trabalho com ferramentas e tecnologias como Python, SQL, BigQuery, Power BI, e Tableau, aplicando técnicas de análise e visualização de dados para transformar informações em insights estratégicos.
 
->Atualmente tenho conhecimento nas linguagens de programação JavaScript, Java, Python, C/C++ e C#. Além disso, tenho uma tendência muito forte para o web design, intimidade com ferramentas como Figma, Canva e Photoshop, de modo que posso criar soluções de software não apenas funcionais, mas também visualmente atraentes e intuitivas para os usuários, e também tenho conhecimento em metodologias de resolução de problemas, como o Scrum. 
+>Tenho uma base sólida em linguagens de programação como C/C++ e C#, além de conhecimentos em metodologias ágeis como Scrum. Meu diferencial é a capacidade de combinar análise de dados com um olhar refinado para design intuitivo e experiência do usuário, utilizando ferramentas como Figma, Canva e Photoshop.
 
->Acredito que boas engenharia e design combinadas são a chave para o aplicativo de sucesso. Estou sempre à procura de desafios e oportunidades para aplicar meu conhecimento em projetos mais práticos.
-
+>Acredito que a união entre dados bem interpretados e soluções visualmente atraentes são a chave para gerar impacto positivo. Estou sempre em busca de novos desafios e projetos práticos para aplicar meu conhecimento e expandir minhas competências em análise de dados e design.
 
 <br>
 <br>
