@@ -26,7 +26,7 @@
 </h2>
 
 <div align="left"> 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,vscode,figma,blender" />
 </div>
 
 <br>
