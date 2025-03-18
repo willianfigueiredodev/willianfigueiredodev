@@ -11,9 +11,9 @@
   🧠 - Sobre mim
 </h2>
 
-- 🔭 Atualmente estou desenvolvendo minhas habilidades em Engenharia de Software e Análise de Dados
-- 👯 Busco colaborar em projetos de desenvolvimento de software e ciência de dados
-- 💬 Me pergunte sobre tecnologia, programação, análise de dados e design
+- 🔭 Atualmente estou desenvolvendo minhas habilidades em Engenharia de Software e Dados
+- 👯 Busco colaborar em projetos de desenvolvimento de software e análise de dados
+- 💬 Me pergunte sobre tecnologia, programação, dados e design
 - 📫 Você pode me contatar em willianfigueiredodev@gmail.com
 - 📄 Saiba mais sobre mim em https://www.linkedin.com/in/willradoux/
 - 📌 Habilidades: curioso, analítico, gosto de resolver problemas, trabalho bem em equipe, inglês básico, francês básico.
