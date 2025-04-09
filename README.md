@@ -11,13 +11,13 @@
   🧠 - Sobre mim
 </h2>
 
-- 🔭 Atualmente estou desenvolvendo minhas habilidades em Engenharia de Software e Dados
-- 👯 Busco colaborar em projetos de desenvolvimento de software e análise de dados
-- 💬 Me pergunte sobre tecnologia, programação, dados e design
-- 📫 Você pode me contatar em willianfigueiredodev@gmail.com
-- 📄 Saiba mais sobre mim em https://www.linkedin.com/in/willradoux/
-- 📌 Habilidades: curioso, analítico, gosto de resolver problemas, trabalho bem em equipe, inglês básico, francês básico.
-- ⚔ Fun fact: Apaixonado por tecnologia e design, sempre explorando novas formas de aprendizado.
+- 🚀 Explorando Engenharia de Software com foco em Dados e Realidade Estendida (XR)
+- 👨‍💻 Interesse em projetos que envolvam análise de dados, sistemas inteligentes e experiências imersivas
+- 🧩 Me pergunte sobre programação, design centrado no usuário, visualização de dados e realidade aumentada
+- 📫 Contato: willianfigueiredodev@gmail.com
+- 📄 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
+- 📌 Soft skills: analítico, proativo, comunicativo e sempre disposto a aprender
+- ⚙ Fun fact: Desenvolvedor curioso e apaixonado por tecnologia criativa, UX e inovação educacional
 
 <br>
 
@@ -37,8 +37,8 @@
 
 <div align="left"> 
 
-<a href="https://www.linkedin.com/in/willradoux/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/willcoding.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/willianfigueiredodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/willianfigueiredodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:willianfigueiredodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 
