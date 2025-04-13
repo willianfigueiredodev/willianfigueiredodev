@@ -2,8 +2,8 @@
 <h1>🌎 -  Hello world!</h1>
 <p align="center">
   
-![Image](https://github.com/user-attachments/assets/87e6e042-dfca-4888-935e-fc595b651b34)
-
+  ![Image](https://github.com/user-attachments/assets/f1e53d40-f8a9-4ec9-8bbf-6060f692a87d)
+  
 </p>
 
 
