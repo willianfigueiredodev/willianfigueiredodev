@@ -11,9 +11,9 @@
   🧠 - Sobre mim
 </h2>
 
-- 🚀 Explorando Engenharia de Software com foco em Dados e Realidade Estendida (XR)
-- 👨‍💻 Interesse em projetos que envolvam dados, sistemas inteligentes e experiências imersivas
-- 🧩 Me pergunte sobre programação, design centrado no usuário, visualização de dados e realidade aumentada
+- 🚀 Explorando Engenharia de Software com foco em Engenharia de Software e Realidade Estendida (XR)
+- 👨‍💻 Interesse em projetos que envolvam Software, sistemas inteligentes e experiências imersivas
+- 🧩 Me pergunte sobre programação, design centrado no usuário e realidade aumentada
 - 📫 Contato: willianfigueiredodev@gmail.com
 - 📄 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
 - 📌 Soft skills: analítico, proativo, comunicativo e sempre disposto a aprender
