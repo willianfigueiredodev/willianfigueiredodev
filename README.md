@@ -11,7 +11,7 @@
   🧠 - Sobre mim
 </h2>
 
-- 🚀 Explorando Engenharia de Software com foco em Engenharia de Software e Realidade Estendida (XR)
+- 🚀 Explorando Engenharia de Software com foco em Engenharia de Software e Backend
 - 👨‍💻 Interesse em projetos que envolvam Software, sistemas inteligentes e experiências imersivas
 - 🧩 Me pergunte sobre programação, design centrado no usuário e realidade aumentada
 - 📫 Contato: willianfigueiredodev@gmail.com
