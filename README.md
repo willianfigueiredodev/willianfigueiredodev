@@ -11,13 +11,11 @@
   🧠 - Sobre mim
 </h2>
 
-- 🚀 Explorando Engenharia de Software com foco em Engenharia de Software e Backend
-- 👨‍💻 Interesse em projetos que envolvam Software, sistemas inteligentes e experiências imersivas
-- 🧩 Me pergunte sobre programação, design centrado no usuário e realidade aumentada
-- 📫 Contato: willianfigueiredodev@gmail.com
-- 📄 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
-- 📌 Soft skills: analítico, proativo, comunicativo e sempre disposto a aprender
-- ⚙ Fun fact: Desenvolvedor curioso e apaixonado por tecnologia criativa, UX e inovação educacional
+- 🚀 Explorando Backend e Engenharia de Software
+- 💻 Interesse em sistemas escaláveis, APIs e arquitetura de software robusta
+- 🔧 Me pergunte sobre desenvolvimento de backend e arquitetura de microserviço
+- 📧 Contato: willianfigueiredodev@gmail.com
+- 🔗 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
 
 <br>
 
