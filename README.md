@@ -29,10 +29,6 @@
 
 <br>
 
-<h2 align="left"> 
-  📊 - GitHub Stats
-</h2>
-
 <div align="left">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianfigueiredodev&show_icons=true&theme=radical"/>
