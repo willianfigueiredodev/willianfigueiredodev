@@ -24,7 +24,7 @@
 </h2>
 
 <div align="left"> 
-<img src="https://skillicons.dev/icons?i=cs,python,dotnet,mongodb,linux,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,java,python,dotnet,mongodb,linux,git,github,figma,vscode" />
 </div>
 
 <br>
