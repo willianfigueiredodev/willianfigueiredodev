@@ -1,15 +1,4 @@
-
 <h1>🌎 -  Hello world!</h1>
-<p align="center">
-  
-  ![Image](https://github.com/user-attachments/assets/f1e53d40-f8a9-4ec9-8bbf-6060f692a87d)
-  
-</p>
-
-
-<h2 align="left">
-  🧠 - Sobre mim
-</h2>
 
 - 🚀 Explorando Backend e Engenharia de Software
 - 💻 Interesse em sistemas escaláveis, APIs e arquitetura de software robusta
@@ -24,7 +13,7 @@
 </h2>
 
 <div align="left"> 
-<img src="https://skillicons.dev/icons?i=cs,react,ts,nodejs,dotnet,git,linux,figma,html,css,bootstrap,tailwind,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,ts,react,vite,tailwind,nodejs,dotnet,git,linux,figma,vscode" />
 </div>
 
 <br>
