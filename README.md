@@ -1,22 +1,25 @@
-<h1>🌎 -  Hello world!</h1>
+<h1 align="left">Hello, I'm Willian! 👋</h1>
+<h3 align="left">Fullstack Developer | Backend Enthusiast | Software Engineering Student</h3>
 
-- 🚀 Explorando Fullstack Development e Engenharia de Software
-- 🛠️ Experiência em backend escalável, APIs, microsserviços e frontend moderno
-- 💡 Tecnologias principais: C#, .NET, Node.js, TypeScript, React, TailwindCSS
-- 🌱 Defensor de uma cultura de aprendizado contínuo, colaboração e meritocracia, acreditando que resultados vêm de esforço, prática e troca de conhecimento
-- 🔍 Interesse em performance, arquitetura de software e boas práticas de desenvolvimento
-- 🔗 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
+## 🌐 Sobre mim  
 
+- 🚀 Explorando **Fullstack Development** e **Engenharia de Software**  
+- 🛠️ Foco em **APIs, microsserviços** e **frontend moderno**  
+- 💡 Tecnologias: **C#, .NET, Node.js, TypeScript, React, TailwindCSS**  
+- 🌱 Valorizo **aprendizado contínuo, colaboração e meritocracia**  
+- 🔍 Interesse em **performance, arquitetura de software** e **boas práticas de código**  
+
+## 📬 Contato  
+
+- ✉️ [willianfigueiredodev@gmail.com](mailto:willianfigueirodedev@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/willianfigueirodedev/)  
 <br>
 
-<h2 align="left"> 
-  💻 - Technologies and knowledge
-</h2>
+## ⚙️ Tecnologias & Ferramentas  
 
-<div align="left"> 
-<img src="https://skillicons.dev/icons?i=js,cs,python,ts,react,vite,tailwind,nodejs,dotnet,git,linux,figma,vscode" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,react,vite,tailwind,nodejs,dotnet,git,linux,figma,vscode" />
 </div>
-
 <br>
 
 <div align="left">
