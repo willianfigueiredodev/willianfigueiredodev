@@ -13,7 +13,7 @@
 </h2>
 
 <div align="left"> 
-<img src="https://skillicons.dev/icons?i=cs,ts,react,vite,tailwind,nodejs,dotnet,git,linux,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=js,cs,python,ts,react,vite,tailwind,nodejs,dotnet,git,linux,figma,vscode" />
 </div>
 
 <br>
