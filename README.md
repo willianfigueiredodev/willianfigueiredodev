@@ -1,9 +1,10 @@
 <h1>🌎 -  Hello world!</h1>
 
-- 🚀 Explorando Backend e Engenharia de Software
-- 💻 Interesse em sistemas escaláveis, APIs e arquitetura de software robusta
-- 🔧 Me pergunte sobre desenvolvimento de backend e arquitetura de microserviço
-- 📧 Contato: willianfigueiredodev@gmail.com
+- 🚀 Explorando Fullstack Development e Engenharia de Software
+- 🛠️ Experiência em backend escalável, APIs, microsserviços e frontend moderno
+- 💡 Tecnologias principais: C#, .NET, Node.js, TypeScript, React, TailwindCSS
+- 🌱 Defensor de uma cultura de aprendizado contínuo, colaboração e meritocracia, acreditando que resultados vêm de esforço, prática e troca de conhecimento
+- 🔍 Interesse em performance, arquitetura de software e boas práticas de desenvolvimento
 - 🔗 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
 
 <br>
