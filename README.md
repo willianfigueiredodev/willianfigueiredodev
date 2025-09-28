@@ -7,12 +7,10 @@
 - 🛠️ Foco em **APIs, microsserviços** e **frontend moderno**  
 - 💡 Tecnologias: **C#, .NET, Node.js, TypeScript, React, TailwindCSS**  
 - 🌱 Valorizo **aprendizado contínuo, colaboração e meritocracia**  
-- 🔍 Interesse em **performance, arquitetura de software** e **boas práticas de código**  
-
-## 📬 Contato  
-
+- 🔍 Interesse em **performance, arquitetura de software** e **boas práticas de código**
 - ✉️ [willianfigueiredodev@gmail.com](mailto:willianfigueirodedev@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/willianfigueirodedev/)  
+
 <br>
 
 ## ⚙️ Tecnologias & Ferramentas  
