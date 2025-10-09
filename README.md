@@ -52,6 +52,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/willianfigueiredodev/willianfigueiredodev/output/dist/github-contribution-grid-snake.svg" alt="animação de cobra com as contribuições do github">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/willianfigueiredodev/willianfigueiredodev/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
