@@ -51,3 +51,7 @@
 <a href="mailto:willianfigueiredodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/willianfigueiredodev/willianfigueiredodev/output/github-contribution-grid-snake.svg" alt="animação de cobra com as contribuições do github">
+</div>
