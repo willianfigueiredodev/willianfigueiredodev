@@ -1,30 +1,40 @@
 <h1 align="left">Hello, I'm Willian! 👋</h1>
-<h3 align="left">Fullstack Developer | Backend Enthusiast | Software Engineering Student</h3>
+<h3 align="left">Backend Developer | Node.js, TypeScript & NestJS</h3>
 
-## 🌐 Sobre mim  
+## 🌐 Sobre mim
 
-- 🚀 Explorando **Fullstack Development** e **Engenharia de Software**  
-- 🛠️ Foco em **APIs, microsserviços** e **frontend moderno**  
-- 💡 Tecnologias: **C#, .NET, Node.js, TypeScript, React, TailwindCSS**  
-- 🌱 Valorizo **aprendizado contínuo, colaboração e meritocracia**  
-- 🔍 Interesse em **performance, arquitetura de software** e **boas práticas de código**
-- ✉️ [willianfigueiredodev@gmail.com](mailto:willianfigueirodedev@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/willianfigueirodedev/)  
+<p>
+  Sou estudante de Engenharia de Software pela UNIFACS e entusiasta no desenvolvimento backend, me aprimorando no ecossistema <strong>Node.js e TypeScript</strong>. Tenho como meta, construir, projetos com <strong>APIs RESTful</strong> escaláveis e bem estruturadas, aplicando conceitos de arquitetura de software e boas práticas de código.
+  <br><br>
+  Atualmente, atuo no desenvolvimento do <b>JustMatch</b>, uma startup em fase de MVP que conecta advogados a clientes, onde foco na arquitetura e implementação do backend com <strong>NestJS, Prisma e PostgreSQL</strong>.
+  <br><br>
+  🌱 No momento, estou aprimorando meus conhecimentos em <b>NestJS, PostgreSQL, Prisma</b> e <b>Docker</b> para fortalecer minha base em desenvolvimento backend.
+</p>
 
+#### 💡 Foco e Interesses Atuais:
+- 🚀 Desenvolvimento Backend com **Node.js, TypeScript e NestJS**
+- 🛠️ Construção de **APIs RESTful** e interesse em **Arquitetura de Software**
+- 🗄️ Modelagem de bancos de dados relacionais com **PostgreSQL e Prisma ORM**
+- 🧪 Aprendendo e aplicando **testes automatizados** com **Jest e Supertest**
+- ⚙️ Versionamento de código com **Git e Gitflow** como pilar para colaboração
+
+</div>
 <br>
 
 ## ⚙️ Tecnologias & Ferramentas  
 
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,react,vite,tailwind,nodejs,dotnet,git,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,postgresql,prisma,docker,git,jest,linux,vscode" />
 </div>
+
 <br>
 
 <div align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianfigueiredodev&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianfigueiredodev&show_icons=true&theme=merko"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&langs_count=7&theme=merko"/>
 
 </div>
 
