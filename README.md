@@ -6,8 +6,6 @@
 <p>
   Sou estudante de Engenharia de Software pela UNIFACS e entusiasta no desenvolvimento backend, me aprimorando no ecossistema <strong>Node.js e TypeScript</strong>. Tenho como meta, construir, projetos com <strong>APIs RESTful</strong> escaláveis e bem estruturadas, aplicando conceitos de arquitetura de software e boas práticas de código.
   <br><br>
-  Atualmente, atuo no desenvolvimento do <b>JustMatch</b>, uma startup em fase de MVP que conecta advogados a clientes, onde foco na arquitetura e implementação do backend com <strong>NestJS, Prisma e PostgreSQL</strong>.
-  <br><br>
   🌱 No momento, estou aprimorando meus conhecimentos em <b>NestJS, PostgreSQL, Prisma</b> e <b>Docker</b> para fortalecer minha base em desenvolvimento backend.
 </p>
 
