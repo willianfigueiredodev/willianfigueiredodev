@@ -30,7 +30,7 @@
 
 <div align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianfigueiredodev&show_icons=true&theme=merko&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianfigueiredodev&show_icons=true&theme=merko&count_private=false"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&langs_count=7&theme=merko&count_private=false"/>
 
