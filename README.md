@@ -4,9 +4,9 @@
 ## 🌐 Sobre mim
 
 <p>
-  Sou estudante de Engenharia de Software pela UNIFACS e entusiasta no desenvolvimento backend, me aprimorando no ecossistema <strong>Node.js e TypeScript</strong>. Tenho como meta, construir, projetos com <strong>APIs RESTful</strong> escaláveis e bem estruturadas, aplicando conceitos de arquitetura de software e boas práticas de código.
+  Sou um <strong>Engenheiro de Software</strong> focado no desenvolvimento de sistemas <strong>Backend</strong> escaláveis e robustos. Minha especialidade é o ecossistema <strong>Node.js & TypeScript</strong>, onde desenvolvo <strong>APIs RESTful</strong> de alta performance utilizando <strong>NestJS</strong>.
   <br><br>
-  🌱 No momento, estou aprimorando meus conhecimentos em <b>NestJS, PostgreSQL, Prisma</b> e <b>Docker</b> para fortalecer minha base em desenvolvimento backend.
+  Tenho um compromisso sólido com a qualidade de software, focando em arquitetura limpa, otimização de bancos de dados com <strong>PostgreSQL & Prisma</strong> e ambientes containerizados com <strong>Docker</strong>.
 </p>
 
 #### 💡 Foco Técnico:
