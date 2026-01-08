@@ -24,6 +24,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,postgresql,prisma,docker,git,jest,linux,vscode" />
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/willianfigueiredodev/willianfigueiredodev/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
 
 <h2 align="left"> 
   🔗 - Entre em contato comigo:
@@ -37,6 +40,4 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/willianfigueiredodev/willianfigueiredodev/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+
