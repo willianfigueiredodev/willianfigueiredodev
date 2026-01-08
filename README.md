@@ -9,15 +9,14 @@
   🌱 No momento, estou aprimorando meus conhecimentos em <b>NestJS, PostgreSQL, Prisma</b> e <b>Docker</b> para fortalecer minha base em desenvolvimento backend.
 </p>
 
-#### 💡 Foco e Interesses Atuais:
-- 🚀 Desenvolvimento Backend com **Node.js, TypeScript e NestJS**
-- 🛠️ Construção de **APIs RESTful** e interesse em **Arquitetura de Software**
-- 🗄️ Modelagem de bancos de dados relacionais com **PostgreSQL e Prisma ORM**
-- 🧪 Aprendendo e aplicando **testes automatizados** com **Jest e Supertest**
-- ⚙️ Versionamento de código com **Git e Gitflow** como pilar para colaboração
+#### 💡 Foco Técnico:
+- 🚀 **Engenharia Backend:** Especialista em Node.js, TypeScript e NestJS.
+- 🛠️ **Arquitetura:** Focado na construção de APIs modulares e escaláveis.
+- 🗄️ **Dados e Persistência:** Modelagem de bancos de dados com PostgreSQL e Prisma ORM.
+- 🧪 **Qualidade de Software:** Implementação de testes automatizados com Jest e Supertest.
+- ⚙️ **Workflow:** Experiência com GitFlow e metodologias ágeis (Scrum).
 
 </div>
-<br>
 
 ## ⚙️ Tecnologias & Ferramentas  
 
@@ -25,18 +24,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,postgresql,prisma,docker,git,jest,linux,vscode" />
 </div>
-
-<br>
-
-<div align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianfigueiredodev&show_icons=true&theme=merko&count_private=false"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&langs_count=7&theme=merko&count_private=false"/>
-
-</div>
-
-<br>
 
 <h2 align="left"> 
   🔗 - Entre em contato comigo:
