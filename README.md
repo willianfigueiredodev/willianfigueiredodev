@@ -10,7 +10,7 @@
 </p>
 
 #### 💡 Foco Técnico:
-- 🚀 **Engenharia Backend:** Especialista em Node.js, TypeScript e NestJS.
+- 🚀 **Engenharia Backend:** Desenvolvedor Node.js, TypeScript e NestJS.
 - 🛠️ **Arquitetura:** Focado na construção de APIs modulares e escaláveis.
 - 🗄️ **Dados e Persistência:** Modelagem de bancos de dados com PostgreSQL e Prisma ORM.
 - 🧪 **Qualidade de Software:** Implementação de testes automatizados com Jest e Supertest.
