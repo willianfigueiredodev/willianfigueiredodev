@@ -22,7 +22,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,nestjs,nextjs,react,postgresql,prisma,docker,git,jest,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,nextjs,react,postgresql,prisma,docker,git,jest,linux,vscode" />
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/willianfigueiredodev/willianfigueiredodev/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
