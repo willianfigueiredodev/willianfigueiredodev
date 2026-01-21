@@ -18,15 +18,12 @@
 
 ## 🛠 Stack Técnica
 
-### **Core Backend**
-- **Languages:** Python (Foco em P&D e Scripts), TypeScript, JavaScript, C++.
-- **Frameworks:** NestJS, FastAPI, Express.js.
-- **Data & Persistence:** PostgreSQL, SQL Server, Prisma ORM, SQLAlchemy.
-
-### **DevOps & Quality**
-- **Infrastructure:** Docker & Docker Compose, Linux (Admin), Virtual Machines.
-- **Testing:** Testes unitários e de integração com Jest e Supertest.
-- **Workflow:** Git, CI/CD basics, Metodologias Ágeis (Scrum/Kanban).
+| Core Backend | DevOps & Quality |
+| :--- | :--- |
+| 🐍 **Python:** Foco em P&D, Scripts e Automação | 🐳 **Docker:** Containers & Docker Compose |
+| 🛡️ **TypeScript/JS:** NestJS, Node.js e Express | 🧪 **Testing:** Jest e Supertest (Unitários/Integração) |
+| 🗄️ **Banco de Dados:** PostgreSQL, SQL e Prisma ORM | ⚙️ **Workflow:** Git, CI/CD basics e Scrum |
+| 🌐 **APIs:** Desenvolvimento de APIs RESTful robustas | 🐧 **Linux:** Admin, Virtual Machines e Bash |
 
 ## ⚙️ Tecnologias & Ferramentas  
 
