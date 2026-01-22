@@ -28,7 +28,7 @@
 ## ⚙️ Tecnologias & Ferramentas  
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,nestjs,nextjs,react,postgres,prisma,docker,git,jest,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,nextjs,react,postgres,prisma,docker,git,jest,linux,vscode" />
 </div>
 
 <br>
