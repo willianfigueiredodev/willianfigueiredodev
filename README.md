@@ -1,14 +1,14 @@
 <h1 align="left">Hello, I'm Willian! 👋</h1>
-<h3 align="left">Backend Developer | Node.js, NestJS & Python (P&D)</h3>
+<h3 align="left">Node.js Developer & DevOps Enthusiast</h3>
 
 ## 🌐 Sobre mim
 
 <table>
   <tr>
     <td width="60%" style="vertical-align: top;">
-      Sou um <strong>Engenheiro de Software</strong> focado na construção de ecossistemas <strong>Backend</strong> de alta performance. Minha expertise reside no desenvolvimento de <strong>APIs RESTful</strong> escaláveis utilizando <strong>NestJS e Python</strong>.
+      Sou um graduando em <strong>Engenharia de Software</strong> focado no ecossistema <strong>Node.js</strong> e na cultura <strong>DevOps</strong>. Atuo na construção de <strong>APIs escaláveis</strong> com TypeScript e na automação de infraestrutura.
       <br><br>
-      Com forte vivência em ambientes de <strong>Pesquisa e Desenvolvimento (P&D)</strong>, aplico conceitos de <strong>Clean Architecture, SOLID e Design Patterns</strong> para resolver problemas complexos, desde a modelagem de dados com <strong>PostgreSQL</strong> até a orquestração de containers com <strong>Docker</strong>.
+      Com experiência prática em <strong>P&D e Laboratórios de Arquitetura</strong>, trabalho com a orquestração de containers <strong>Docker</strong>, servidores <strong>Nginx</strong> e integração de soluções de <strong>IA Generativa</strong>.
     </td>
     <td width="40%" align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6" />
@@ -18,17 +18,17 @@
 
 ## 🛠 Stack Técnica
 
-| Core Backend | DevOps & Quality |
+| Backend & Linguagens | DevOps & Infra |
 | :--- | :--- |
-| 🐍 **Python:** Foco em P&D, Scripts e Automação | 🐳 **Docker:** Containers & Docker Compose |
-| 🛡️ **TypeScript/JS:** NestJS, Node.js e Express | 🧪 **Testing:** Jest e Supertest (Unitários/Integração) |
-| 🗄️ **Banco de Dados:** PostgreSQL, SQL e Prisma ORM | ⚙️ **Workflow:** Git, CI/CD basics e Scrum |
-| 🌐 **APIs:** Desenvolvimento de APIs RESTful robustas | 🐧 **Linux:** Admin, Virtual Machines e Bash |
+| 🛡️ **TypeScript/JS:** Node.js e NestJS | 🐳 **Docker:** Containers & Docker Compose |
+| 🐍 **Python:** Desenvolvimento voltado a P&D | 🌐 **Nginx:** Proxy Reverso e Load Balancing |
+| 🗄️ **Database:** PostgreSQL, SQL e Prisma ORM | ⚙️ **CI/CD:** GitHub Actions e Linux  |
+| 🤖 **IA:** Integração de LLMs e AntiGravity | 🔌 **Workflow:** GitFlow, Scrum e VMs |
 
 ## ⚙️ Tecnologias & Ferramentas  
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,nextjs,react,postgres,prisma,docker,git,jest,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,postgres,prisma,docker,nginx,githubactions,linux,git,vscode" />
 </div>
 
 <br>
