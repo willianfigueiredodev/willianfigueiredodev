@@ -11,7 +11,7 @@
       Com experiência prática em <strong>P&D e Laboratórios de Arquitetura</strong>, trabalho com a orquestração de containers <strong>Docker</strong>, servidores <strong>Nginx</strong> e integração de soluções de <strong>IA Generativa</strong>.
     </td>
     <td width="40%" align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willianfigueiredodev&layout=compact&theme=dark&hide_border=true&title_color=3b82f6&count_private=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
