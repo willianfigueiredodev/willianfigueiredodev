@@ -18,7 +18,7 @@ profile:
 # Social links (Placeholders - User can update these)
 social:
   email: "willianfigueiredodev@gmail.com"
-  linkedin: "https://www.linkedin.com/in/willianfigueiredodev/"
+  linkedin: "willianfigueiredodev"
   website: ""
 
 # Galaxy arms represent your core focus areas
@@ -41,12 +41,8 @@ galaxy_arms:
       - "Linux"
       - "CI/CD"
       - "Git"
-  - name: "Ideologies"
-    color: "dendrite_violet"
-    items:
-      - "Accessibility"
-      - "Scalability"
       - "Architecture"
+      - "Scalability"
 
 # Featured projects shown as constellation stars
 projects: []

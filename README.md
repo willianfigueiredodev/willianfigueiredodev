@@ -41,10 +41,13 @@ Building resilient systems and scalable architectures that simplify complex tech
 <br/>
 
 <div align="center">
-  <a href="mailto:willianfigueiredodev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email"/>
+  <a href="https://github.com/willianfigueiredodev">
+    <img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/willianfigueiredodev/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:willianfigueiredodev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=22c55e" alt="Email"/>
   </a>
 </div>
