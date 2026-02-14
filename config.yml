@@ -51,13 +51,14 @@ projects: []
 # - repo: 
 
 # Theme settings
+# Theme settings (Nature & Sea)
 theme:
-  void: "#0a0f0a"           
-  nebula: "#0d1a0d"         
-  star_dust: "#1a2e1a"      
-  synapse_cyan: "#00ff41"    
-  dendrite_violet: "#4ade80" 
-  axon_amber: "#22c55e"      
-  text_bright: "#f0fdf4"     
-  text_dim: "#86efac"        
-  text_faint: "#166534"
+  void: "#051114"           # Deep ocean dark
+  nebula: "#091c21"         # Slightly lighter ocean
+  star_dust: "#183940"      # Mutated teal for borders
+  synapse_cyan: "#2dd4bf"   # Teal / Sea green (Primary)
+  dendrite_violet: "#34d399" # Emerald / Nature green (Secondary)
+  axon_amber: "#0ea5e9"     # Sky/Ocean blue (Accent)
+  text_bright: "#f0fdfa"    # Very light teal/white
+  text_dim: "#ccfbf1"       # Light teal
+  text_faint: "#5eead4"     # Muted teal

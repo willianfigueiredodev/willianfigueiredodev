@@ -46,34 +46,23 @@ def render(stats: dict, metrics: list, theme: dict) -> str:
             )
 
     cells_str = "\n".join(cells)
-    dividers_str = "\n".join(dividers)
+    dividers_str = "\n".join(dividers) # This will now be empty
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
   <defs>
     <style>
-      .metric-icon {{
-        animation: count-glow 4s ease-in-out infinite;
-      }}
-      @keyframes count-glow {{
-        0%, 100% {{ fill-opacity: 0.7; }}
-        50% {{ fill-opacity: 1; }}
-      }}
+      .metric-label {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: {theme['text_faint']}; font-size: 12px; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase; }}
+      .metric-value {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: {theme['text_bright']}; font-size: 32px; font-weight: 800; }}
+      .metric-icon {{ fill: {theme['synapse_cyan']}; }}
     </style>
-    <filter id="num-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
   </defs>
 
   <!-- Card background -->
-  <rect x="0.5" y="0.5" width="{WIDTH - 1}" height="{HEIGHT - 1}" rx="12" ry="12"
-        fill="{theme['nebula']}" stroke="{theme['star_dust']}" stroke-width="1"/>
+  <rect x="0" y="0" width="{WIDTH}" height="{HEIGHT}" rx="16" ry="16" fill="{theme['nebula']}" stroke="{theme['star_dust']}" stroke-width="1"/>
 
   <!-- Section title -->
-  <text x="30" y="38" fill="{theme['text_faint']}" font-size="11" font-family="monospace" letter-spacing="3">MISSION TELEMETRY</text>
-
-  <!-- Dividers -->
-{dividers_str}
+  <text x="32" y="32" class="metric-label" style="fill: {theme['axon_amber']}; opacity: 0.8;">MISSION TELEMETRY</text>
 
   <!-- Metric cells -->
-{cells_str}
+  {cells_str}
 </svg>'''
