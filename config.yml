@@ -7,19 +7,19 @@ username: willianfigueiredodev
 # Profile information displayed in the galaxy header
 profile:
   name: "Willian"
-  tagline: "Backend Developer | DevOps Specialist | R&D Researcher"
+  tagline: "Node.js Developer | DevOps Enthusiast"
   company: "" # Optional
-  location: "" # Optional
+  location: "Salvador, Bahia, Brazil" # Optional
   bio: |
-    Backend Developer & DevOps Specialist.
-    Passionate about robust architectures and research.
-  philosophy: '"Code is poetry, infrastructure is the stage."'
+    Backend Developer & DevOps Enthusiast.
+    Passionate about scalability, accessibility, and usability.
+  philosophy: '"Clean and accessible"'
 
 # Social links (Placeholders - User can update these)
 social:
-  email: "contact@example.com"
-  linkedin: "willianfigueiredo"
-  website: "https://willianfigueiredodev.com"
+  email: "willianfigueiredodev@gmail.com"
+  linkedin: "https://www.linkedin.com/in/willianfigueiredodev/"
+  website: ""
 
 # Galaxy arms represent your core focus areas
 galaxy_arms:
@@ -30,35 +30,38 @@ galaxy_arms:
       - "NestJS"
       - "TypeScript"
       - "Python"
-      - "SOLID"
+      - "PostgreSQL"
+      - "SQL"
+      - "Prisma ORM"
+      - "Engineering"
   - name: "DevOps & Infra"
     color: "axon_amber"
     items:
       - "Docker"
       - "Linux"
       - "CI/CD"
-      - "GitFlow"
-  - name: "Research & P&D"
+      - "Git"
+  - name: "Ideologies"
     color: "dendrite_violet"
     items:
-      - "Agro Computing"
-      - "SKYNET Project"
+      - "Accessibility"
+      - "Scalability"
       - "Architecture"
 
 # Featured projects shown as constellation stars
 projects: []
-  # - repo: "owner/repo-name"
-  #   arm: 0
-  #   description: "Description here"
+  - repo: "willianfigueiredodev/task-manager"
+  - repo: "willianfigueiredodev/sentinel-flow"
+# - repo: 
 
 # Theme settings
 theme:
-  void: "#080c14"
-  nebula: "#0f1623"
-  star_dust: "#1a2332"
-  synapse_cyan: "#00d4ff"
-  dendrite_violet: "#a78bfa"
-  axon_amber: "#ffb020"
-  text_bright: "#f1f5f9"
-  text_dim: "#94a3b8"
-  text_faint: "#64748b"
+  void: "#0a0f0a"           
+  nebula: "#0d1a0d"         
+  star_dust: "#1a2e1a"      
+  synapse_cyan: "#00ff41"    
+  dendrite_violet: "#4ade80" 
+  axon_amber: "#22c55e"      
+  text_bright: "#f0fdf4"     
+  text_dim: "#86efac"        
+  text_faint: "#166534"

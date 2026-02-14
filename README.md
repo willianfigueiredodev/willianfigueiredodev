@@ -33,19 +33,18 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Building resilient systems and scalable architectures that simplify complex technology, empowering users and fueling project growth.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** 
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  <a href="mailto:willianfigueiredodev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/willianfigueiredodev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn"/>
   </a>
 </div>
