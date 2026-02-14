@@ -6,14 +6,14 @@ username: willianfigueiredodev
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Willian"
-  tagline: "Node.js Developer | DevOps Enthusiast"
+  name: "Willian Figueiredo"
+  tagline: "Backend Developer"
   company: "" # Optional
   location: "Salvador, Bahia, Brazil" # Optional
   bio: |
-    Backend Developer & DevOps Enthusiast.
-    Passionate about scalability, accessibility, and usability.
-  philosophy: '"Clean and accessible"'
+    Backend Developer.
+    Passionate about Node.js, Cloud, and AI Integration.
+  philosophy: '"Clean and scalable"'
 
 # Social links (Placeholders - User can update these)
 social:
@@ -23,26 +23,32 @@ social:
 
 # Galaxy arms represent your core focus areas
 galaxy_arms:
-  - name: "Backend & Systems"
+  - name: "Backend"
     color: "synapse_cyan"
     items:
       - "Node.js"
       - "NestJS"
       - "TypeScript"
+      - "JavaScript"
       - "Python"
-      - "PostgreSQL"
-      - "SQL"
-      - "Prisma ORM"
-      - "Engineering"
   - name: "DevOps & Infra"
     color: "axon_amber"
     items:
       - "Docker"
+      - "Nginx"
       - "Linux"
-      - "CI/CD"
       - "Git"
-      - "Architecture"
-      - "Scalability"
+      - "GitHub Actions"
+      - "VMs"
+  - name: "Data & AI"
+    color: "dendrite_violet"
+    items:
+      - "PostgreSQL"
+      - "SQL"
+      - "Prisma ORM"
+      - "LLMs"
+      - "N8N"
+      - "AntiGravity"
 
 # Featured projects shown as constellation stars
 projects: []

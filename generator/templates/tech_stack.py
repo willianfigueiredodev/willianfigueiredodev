@@ -152,16 +152,23 @@ def render(languages, galaxy_arms, theme, exclude, max_display) -> str:
     all_arm_colors = resolve_arm_colors(galaxy_arms, theme)
 
     # Build sector data
+    # Build sector data
     sector_data = []
+    num_arms = len(galaxy_arms)
+    angle_per_sec = 360 / num_arms if num_arms > 0 else 360
+
     for i, arm in enumerate(galaxy_arms):
         color = all_arm_colors[i]
         items = arm.get("items", [])
+        start_deg = i * angle_per_sec + 2
+        end_deg = (i + 1) * angle_per_sec - 2
+        
         sector_data.append({
             "name": arm["name"],
             "color": color,
             "items": len(items),
-            "start_deg": i * 120 + 2,
-            "end_deg": (i + 1) * 120 - 2,
+            "start_deg": start_deg,
+            "end_deg": end_deg,
         })
 
     # Radar geometry
