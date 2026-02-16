@@ -104,7 +104,6 @@ def generate(args):
         "galaxy-header.svg": builder.render_galaxy_header(),
         "stats-card.svg": builder.render_stats_card(),
         "tech-stack.svg": builder.render_tech_stack(),
-        "projects-constellation.svg": builder.render_projects_constellation(),
     }
 
     for filename, content in svgs.items():
