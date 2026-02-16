@@ -40,7 +40,7 @@ galaxy_arms:
       - "Git"
       - "GitHub Actions"
       - "VMs"
-  - name: "Data & AI"
+  - name: "Automation & IA"
     color: "dendrite_violet"
     items:
       - "PostgreSQL"

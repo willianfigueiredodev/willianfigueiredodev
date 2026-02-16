@@ -98,7 +98,7 @@
     </g>
     <text x="731.4" y="73.0" fill="#2dd4bf" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="start" dominant-baseline="middle">Backend</text>
     <text x="650.0" y="214.0" fill="#0ea5e9" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle">DevOps &amp; Infra</text>
-    <text x="568.6" y="73.0" fill="#34d399" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="end" dominant-baseline="middle">Data &amp; AI</text>
+    <text x="568.6" y="73.0" fill="#34d399" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="end" dominant-baseline="middle">Automation &amp; IA</text>
     <circle cx="656.9" cy="96.0" r="3.5" fill="#2dd4bf" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
