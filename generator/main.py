@@ -78,12 +78,19 @@ def generate(args):
             logger.warning("Could not fetch stats (%s). Using defaults.", e)
             stats = {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
 
-        logger.info("Fetching languages...")
-        try:
-            languages = api.fetch_languages()
-        except (requests.exceptions.RequestException, ValueError, KeyError) as e:
-            logger.warning("Could not fetch languages (%s). Using defaults.", e)
-            languages = {}
+        # Check for forced tech stack in config
+        forced_stack = config.get("force_tech_stack")
+        if forced_stack:
+            logger.info("Using forced tech stack from config config.yml...")
+            # Convert percentages to mock byte counts (assuming total 100k bytes for simplicity)
+            languages = {name: int(pct * 1000) for name, pct in forced_stack.items()}
+        else:
+            logger.info("Fetching languages...")
+            try:
+                languages = api.fetch_languages()
+            except (requests.exceptions.RequestException, ValueError, KeyError) as e:
+                logger.warning("Could not fetch languages (%s). Using defaults.", e)
+                languages = {}
 
     logger.info("Stats: %s", stats)
     logger.info("Languages: %d found", len(languages))

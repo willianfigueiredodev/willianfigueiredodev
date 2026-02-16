@@ -68,3 +68,11 @@ theme:
   text_bright: "#f0fdfa"    # Very light teal/white
   text_dim: "#ccfbf1"       # Light teal
   text_faint: "#5eead4"     # Muted teal
+
+# Force specific languages in "Top Languages" chart (overrides GitHub data)
+force_tech_stack:
+  "Node.js": 40
+  "NestJS": 25
+  "TypeScript": 15
+  "JavaScript": 10
+  "Python": 10
