@@ -51,7 +51,8 @@ galaxy_arms:
       - "AntiGravity"
 
 # Featured projects shown as constellation stars
-projects: []
+# Featured projects shown as constellation stars
+projects:
   - repo: "willianfigueiredodev/task-manager"
   - repo: "willianfigueiredodev/sentinel-flow"
 # - repo: 

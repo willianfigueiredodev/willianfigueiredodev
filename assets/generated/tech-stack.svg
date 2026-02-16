@@ -1,142 +1,153 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="278" viewBox="0 0 850 278">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 850 250">
   <defs>
     <style>
-      .section-title { fill: #ffb020; font-size: 11px; font-family: monospace; letter-spacing: 2px; opacity: 0.9; }
+      .section-title { fill: #0ea5e9; font-size: 11px; font-family: monospace; letter-spacing: 2px; opacity: 0.9; }
     </style>
   </defs>
 
   <!-- Card background -->
-  <rect x="0" y="0" width="850" height="278" rx="16" ry="16"
-        fill="#0f1623" stroke="#1a2332" stroke-width="1"/>
+  <rect x="0" y="0" width="850" height="250" rx="16" ry="16"
+        fill="#091c21" stroke="#183940" stroke-width="1"/>
 
   <!-- Left: Language Telemetry -->
   <text x="40" y="40" class="section-title">TOP LANGUAGES</text>
 
   <!-- Vertical divider -->
-  <line x1="450" y1="30" x2="450" y2="248" stroke="#1a2332" stroke-width="1" opacity="0.3"/>
+  <line x1="450" y1="30" x2="450" y2="220" stroke="#183940" stroke-width="1" opacity="0.3"/>
 
   <!-- Right: Focus Sectors -->
   <text x="490" y="40" class="section-title">FOCUS AREAS</text>
 
       <g transform="translate(40, 80)">
-      <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">Python</text>
+      <text x="0" y="0" fill="#ccfbf1" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">Node.js</text>
       
       <!-- Background track -->
-      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#1a2332" opacity="0.3"/>
+      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#183940" opacity="0.3"/>
       
       <!-- Progress bar -->
-      <rect x="120" y="-5" width="89.54" height="10" rx="5" fill="#3572A5" opacity="0.9">
-        <animate attributeName="width" from="0" to="89.54" dur="1s" begin="0.0s" fill="freeze"/>
+      <rect x="120" y="-5" width="88.0" height="10" rx="5" fill="#8b949e" opacity="0.9">
+        <animate attributeName="width" from="0" to="88.0" dur="1s" begin="0.0s" fill="freeze"/>
       </rect>
       
-      <text x="350" y="0" fill="#64748b" font-size="11" font-family="monospace" dominant-baseline="middle">40.7%</text>
+      <text x="350" y="0" fill="#5eead4" font-size="11" font-family="monospace" dominant-baseline="middle">40.0%</text>
     </g>
     <g transform="translate(40, 108)">
-      <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">TypeScript</text>
+      <text x="0" y="0" fill="#ccfbf1" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">NestJS</text>
       
       <!-- Background track -->
-      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#1a2332" opacity="0.3"/>
+      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#183940" opacity="0.3"/>
       
       <!-- Progress bar -->
-      <rect x="120" y="-5" width="75.67999999999999" height="10" rx="5" fill="#3178c6" opacity="0.9">
-        <animate attributeName="width" from="0" to="75.67999999999999" dur="1s" begin="0.1s" fill="freeze"/>
+      <rect x="120" y="-5" width="55.0" height="10" rx="5" fill="#8b949e" opacity="0.9">
+        <animate attributeName="width" from="0" to="55.0" dur="1s" begin="0.1s" fill="freeze"/>
       </rect>
       
-      <text x="350" y="0" fill="#64748b" font-size="11" font-family="monospace" dominant-baseline="middle">34.4%</text>
+      <text x="350" y="0" fill="#5eead4" font-size="11" font-family="monospace" dominant-baseline="middle">25.0%</text>
     </g>
     <g transform="translate(40, 136)">
-      <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">JavaScript</text>
+      <text x="0" y="0" fill="#ccfbf1" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">TypeScript</text>
       
       <!-- Background track -->
-      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#1a2332" opacity="0.3"/>
+      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#183940" opacity="0.3"/>
       
       <!-- Progress bar -->
-      <rect x="120" y="-5" width="23.98" height="10" rx="5" fill="#f1e05a" opacity="0.9">
-        <animate attributeName="width" from="0" to="23.98" dur="1s" begin="0.2s" fill="freeze"/>
+      <rect x="120" y="-5" width="33.0" height="10" rx="5" fill="#3178c6" opacity="0.9">
+        <animate attributeName="width" from="0" to="33.0" dur="1s" begin="0.2s" fill="freeze"/>
       </rect>
       
-      <text x="350" y="0" fill="#64748b" font-size="11" font-family="monospace" dominant-baseline="middle">10.9%</text>
+      <text x="350" y="0" fill="#5eead4" font-size="11" font-family="monospace" dominant-baseline="middle">15.0%</text>
     </g>
     <g transform="translate(40, 164)">
-      <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">Go</text>
+      <text x="0" y="0" fill="#ccfbf1" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">JavaScript</text>
       
       <!-- Background track -->
-      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#1a2332" opacity="0.3"/>
+      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#183940" opacity="0.3"/>
       
       <!-- Progress bar -->
-      <rect x="120" y="-5" width="18.919999999999998" height="10" rx="5" fill="#00ADD8" opacity="0.9">
-        <animate attributeName="width" from="0" to="18.919999999999998" dur="1s" begin="0.30000000000000004s" fill="freeze"/>
+      <rect x="120" y="-5" width="22.0" height="10" rx="5" fill="#f1e05a" opacity="0.9">
+        <animate attributeName="width" from="0" to="22.0" dur="1s" begin="0.30000000000000004s" fill="freeze"/>
       </rect>
       
-      <text x="350" y="0" fill="#64748b" font-size="11" font-family="monospace" dominant-baseline="middle">8.6%</text>
+      <text x="350" y="0" fill="#5eead4" font-size="11" font-family="monospace" dominant-baseline="middle">10.0%</text>
     </g>
     <g transform="translate(40, 192)">
-      <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">Rust</text>
+      <text x="0" y="0" fill="#ccfbf1" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">Python</text>
       
       <!-- Background track -->
-      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#1a2332" opacity="0.3"/>
+      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#183940" opacity="0.3"/>
       
       <!-- Progress bar -->
-      <rect x="120" y="-5" width="9.02" height="10" rx="5" fill="#dea584" opacity="0.9">
-        <animate attributeName="width" from="0" to="9.02" dur="1s" begin="0.4s" fill="freeze"/>
+      <rect x="120" y="-5" width="22.0" height="10" rx="5" fill="#3572A5" opacity="0.9">
+        <animate attributeName="width" from="0" to="22.0" dur="1s" begin="0.4s" fill="freeze"/>
       </rect>
       
-      <text x="350" y="0" fill="#64748b" font-size="11" font-family="monospace" dominant-baseline="middle">4.1%</text>
-    </g>
-    <g transform="translate(40, 220)">
-      <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" dominant-baseline="middle">Dockerfile</text>
-      
-      <!-- Background track -->
-      <rect x="120" y="-5" width="220" height="10" rx="5" fill="#1a2332" opacity="0.3"/>
-      
-      <!-- Progress bar -->
-      <rect x="120" y="-5" width="4" height="10" rx="5" fill="#384d54" opacity="0.9">
-        <animate attributeName="width" from="0" to="4" dur="1s" begin="0.5s" fill="freeze"/>
-      </rect>
-      
-      <text x="350" y="0" fill="#64748b" font-size="11" font-family="monospace" dominant-baseline="middle">1.4%</text>
+      <text x="350" y="0" fill="#5eead4" font-size="11" font-family="monospace" dominant-baseline="middle">10.0%</text>
     </g>
 
-      <circle cx="650" cy="120" r="25" fill="none" stroke="#64748b" stroke-width="1" stroke-dasharray="2,4" opacity="0.15"/>
-    <circle cx="650" cy="120" r="45" fill="none" stroke="#64748b" stroke-width="1" stroke-dasharray="2,4" opacity="0.15"/>
-    <circle cx="650" cy="120" r="65" fill="none" stroke="#64748b" stroke-width="1" stroke-dasharray="2,4" opacity="0.15"/>
-    <path d="M 650 120 L 652.4 50.0 A 70 70 0 0 1 711.8 152.9 Z" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.2" stroke-width="0.5"/>
-    <path d="M 650 120 L 709.4 157.1 A 70 70 0 0 1 590.6 157.1 Z" fill="#00d4ff" fill-opacity="0.08" stroke="#00d4ff" stroke-opacity="0.2" stroke-width="0.5"/>
-    <path d="M 650 120 L 588.2 152.9 A 70 70 0 0 1 647.6 50.0 Z" fill="#ffb020" fill-opacity="0.08" stroke="#ffb020" stroke-opacity="0.2" stroke-width="0.5"/>
+      <circle cx="650" cy="120" r="25" fill="none" stroke="#5eead4" stroke-width="1" stroke-dasharray="2,4" opacity="0.15"/>
+    <circle cx="650" cy="120" r="45" fill="none" stroke="#5eead4" stroke-width="1" stroke-dasharray="2,4" opacity="0.15"/>
+    <circle cx="650" cy="120" r="65" fill="none" stroke="#5eead4" stroke-width="1" stroke-dasharray="2,4" opacity="0.15"/>
+    <path d="M 650 120 L 652.4 50.0 A 70 70 0 0 1 711.8 152.9 Z" fill="#2dd4bf" fill-opacity="0.08" stroke="#2dd4bf" stroke-opacity="0.2" stroke-width="0.5"/>
+    <path d="M 650 120 L 709.4 157.1 A 70 70 0 0 1 590.6 157.1 Z" fill="#0ea5e9" fill-opacity="0.08" stroke="#0ea5e9" stroke-opacity="0.2" stroke-width="0.5"/>
+    <path d="M 650 120 L 588.2 152.9 A 70 70 0 0 1 647.6 50.0 Z" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.2" stroke-width="0.5"/>
     <g>
       <!-- Sweep gradient (simulated with arc) -->
-      <path d="M 650 120 L 589.4 85.0 A 70 70 0 0 1 650.0 50.0 Z" fill="#00d4ff" fill-opacity="0.05"/>
-      <line x1="650" y1="120" x2="650" y2="50" stroke="#00d4ff" stroke-width="1.5" opacity="0.4"/>
+      <path d="M 650 120 L 589.4 85.0 A 70 70 0 0 1 650.0 50.0 Z" fill="#2dd4bf" fill-opacity="0.05"/>
+      <line x1="650" y1="120" x2="650" y2="50" stroke="#2dd4bf" stroke-width="1.5" opacity="0.4"/>
       <animateTransform attributeName="transform" type="rotate" from="0 650 120" to="360 650 120" dur="6s" repeatCount="indefinite"/>
     </g>
-    <text x="731.4" y="73.0" fill="#a78bfa" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="start" dominant-baseline="middle">Frontend</text>
-    <text x="650.0" y="214.0" fill="#00d4ff" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle">Backend</text>
-    <text x="568.6" y="73.0" fill="#ffb020" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="end" dominant-baseline="middle">DevOps</text>
-    <circle cx="656.9" cy="96.0" r="3.5" fill="#a78bfa" opacity="0.6">
+    <text x="731.4" y="73.0" fill="#2dd4bf" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="start" dominant-baseline="middle">Backend</text>
+    <text x="650.0" y="214.0" fill="#0ea5e9" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle">DevOps &amp; Infra</text>
+    <text x="568.6" y="73.0" fill="#34d399" font-size="10" font-weight="600" font-family="sans-serif" text-anchor="end" dominant-baseline="middle">Data &amp; AI</text>
+    <circle cx="656.9" cy="96.0" r="3.5" fill="#2dd4bf" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="689.0" cy="97.5" r="3.5" fill="#a78bfa" opacity="0.6">
+    <circle cx="677.7" cy="84.5" r="3.5" fill="#2dd4bf" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="713.1" cy="135.7" r="3.5" fill="#a78bfa" opacity="0.6">
+    <circle cx="706.3" cy="87.5" r="3.5" fill="#2dd4bf" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="1.0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="667.4" cy="138.0" r="3.5" fill="#00d4ff" opacity="0.6">
+    <circle cx="674.8" cy="116.5" r="3.5" fill="#2dd4bf" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="693.7" cy="130.9" r="3.5" fill="#2dd4bf" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="667.4" cy="138.0" r="3.5" fill="#0ea5e9" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="650.0" cy="165.0" r="3.5" fill="#00d4ff" opacity="0.6">
+    <circle cx="670.0" cy="160.3" r="3.5" fill="#0ea5e9" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="604.8" cy="166.8" r="3.5" fill="#00d4ff" opacity="0.6">
+    <circle cx="659.9" cy="184.2" r="3.5" fill="#0ea5e9" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="1.0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="625.7" cy="126.0" r="3.5" fill="#ffb020" opacity="0.6">
+    <circle cx="646.2" cy="144.7" r="3.5" fill="#0ea5e9" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="630.0" cy="160.3" r="3.5" fill="#0ea5e9" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="604.8" cy="166.8" r="3.5" fill="#0ea5e9" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="625.7" cy="126.0" r="3.5" fill="#34d399" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="611.0" cy="97.5" r="3.5" fill="#ffb020" opacity="0.6">
+    <circle cx="605.1" cy="117.2" r="3.5" fill="#34d399" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="0.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="632.1" cy="57.5" r="3.5" fill="#ffb020" opacity="0.6">
+    <circle cx="589.4" cy="96.5" r="3.5" fill="#34d399" opacity="0.6">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="1.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="630.5" cy="104.3" r="3.5" fill="#34d399" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="625.1" cy="82.5" r="3.5" fill="#34d399" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="632.1" cy="57.5" r="3.5" fill="#34d399" opacity="0.6">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" begin="2.5s" repeatCount="indefinite"/>
     </circle>
 </svg>
