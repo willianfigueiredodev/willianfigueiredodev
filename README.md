@@ -7,25 +7,23 @@
 ```bash
 $ whoami
 > Willian Figueiredo
-> Desenvolvedor focado em Backend (Node.js/NestJS) e Infraestrutura (Linux/Docker)
+> Desenvolvedor focado em Backend Node.js e Infraestrutura
 > Graduando em Engenharia de Software
 
 $ locate --skills
 > RUNTIME:     Node.js, NestJS, TypeScript, Python
 > INFRA:       GNU/Linux, Docker, Nginx, VMs
-> DATA:        PostgreSQL, Prisma ORM, Redis
-> AI-FLOW:     LLM Integration, n8n Automation, Project IDX
+> DATA:        PostgreSQL, Prisma ORM, SQL
+> AI-FLOW:     LLM Integration, n8n Automation, AntiGravity IDE
 
 $ cat contacts.txt
-> [LinkedIn](https://www.linkedin.com/in/willianfigueiredodev/)
-> [Email](mailto:willianfigueiredodev@gmail.com)
+> LinkedIn: https://www.linkedin.com/in/willianfigueiredodev
+> Email: willianfigueiredodev@gmail.com)
 ```
 
 <br>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,postgres,prisma,docker,nginx,githubactions,linux,git,vscode" />
-</div>
+
 
 <br>
 
