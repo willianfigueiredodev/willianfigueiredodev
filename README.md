@@ -12,7 +12,7 @@ $ whoami
 
 $ locate --skills
 > RUNTIME:     Node.js, NestJS, TypeScript, Python
-> INFRA:       GNU/Linux, Docker, Nginx, VMs
+> INFRA:       GNU Linux, Docker, Nginx, VMs
 > DATA:        PostgreSQL, Prisma ORM, SQL
 > AI-FLOW:     LLM Integration, n8n Automation, AntiGravity IDE
 
