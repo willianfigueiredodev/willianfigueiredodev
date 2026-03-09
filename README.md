@@ -7,7 +7,7 @@
 ```bash
 $ whoami
 > Willian Figueiredo
-> Desenvolvedor focado em Backend Node.js e Infraestrutura
+> Desenvolvedor focado em Backend Node.js
 > Graduando em Engenharia de Software
 
 $ locate --skills
