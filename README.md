@@ -11,9 +11,9 @@ $ whoami
 > Graduando em Engenharia de Software na UNIFACS
 
 $ locate --skills
-> FRONTEND:     React/Vue Ecosystem, TypeScript (Strict), Vite, Tailwind CSS
+> FRONTEND:     React/Vue, TypeScript, Vite, Tailwind CSS, Angular
 > DESIGN-OPS:   Design Systems, UI Architecture, Inclusive Design (WCAG)
-> AI-ENGINEER:  Agentic Workflows (n8n), LLM Integration (Claude/Gemini)
+> AI-ENGINEER:  Agentic Workflows, LLM Integration (Claude/Codex), DeepAgents
 > INTEGRATION:  SQL/PostgreSQL, Prisma ORM, Docker Containerization
 > WORKFLOW:     Zsh Productivity, GNU Linux, CI/CD, Advanced Git
 > CORE-UX:      Performance Optimization, User-Centric Prototyping
